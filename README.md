@@ -2,9 +2,6 @@
 
 Spring boot backend of the whatsapp clone
 
-[Video tutorial](https://youtu.be/Ot7QE_gzhtA)
-
-[Angular Frontend](https://github.com/C0de-cake/whatsapp-clone-frontend)
 
 ### Key Features:
 - 💬 Real-time messaging
@@ -20,13 +17,4 @@ Spring boot backend of the whatsapp clone
 - IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/))
 - Docker ([Docker Desktop](https://docs.docker.com/engine/install/))
 
-### Clone the repository
-``git clone https://github.com/C0de-cake/whatsapp-clone-back``
 
-### Launch
-
-#### Run keycloak
-``docker-compose src/main/docker/keycloak.yml up -d``
-
-#### Maven
-``./mvnw spring-boot:run``
